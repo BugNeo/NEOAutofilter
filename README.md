@@ -1,4 +1,4 @@
-###  <a href="https://youtu.be/FCU_XJmyG_U">LuciferMoringstar-Robot</a>
+###  <a href="https://t.me*relaxroombkp">NE0-Auto-Filter-Robot</a>
 
 
 ----
@@ -27,9 +27,7 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ```
 ### Credits
 
-Thanks To [LuciferMoringstar-Robot](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot) [Orginal Code](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot)
-Thanks To [Muhammed](https://github.com/PR0FESS0R-99)
-Thanks To [Developers](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot#credits)
+Thanks To [NEO](https://github.com/realgaurv)
 ```
 
 ----
@@ -47,27 +45,21 @@ Thanks To [Developers](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot#c
 
  Thanks To [Subinps](https://github.com/subinps/Media-Search-bot) AutoFilter
 
- [No Helper. Done Alone](https://github.com/PR0FESS0R_99) Creator
-
- Thanks To [Muhammed](https://github.com/PR0FESS0R_99) Me
-
 ----
 
 ### Support
 
-Join Our [Telegram Group](https://telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://telegram.dog/Mo_Tech_YT) For Updates.
+Join Our [Telegram Group](https://t.me/relaxroomchat1) For Support/Assistance And Our [Channel](https://t.me/RelaxroomBkp) For Updates.
 
 Report Bugs, Give Feature Requests There..
 Do Fork And Star The Repository If You Liked It.
 
-<a href="https://telegram.dog/Mo_Tech_YT"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Mo-Tech-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<a href="https://telegram.dog/Mo_Tech_Group"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+<a href="https://telegram.dog/RelaxroomBkp"><img alt="telegram" src="https://img.shields.io/badge/Updates-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
+<a href="https://telegram.dog/RelaxroomChat1"><img alt="telegram" src="https://img.shields.io/badge/Group-%22B1B17.svg?&logo=telegram&logoColor=white"></a>
 
 ----
 
-### Subscribe
-<a href="https://youtube.com/c/MoTech_YT"> <img src="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LuciferMoringstar_Robot/modules/logo/MoTcch-YouTube-Channel.png"/> </a>
+
 
 ----
 
@@ -154,17 +146,11 @@ Do Fork And Star The Repository If You Liked It.
 
 `PICS` : (random pics support | separate multiple pictures by space) Get this value from :- [Click Here](https://telegram.dog/MT_TelegraPH_Bot)
 
-`SUPORT_CHAT` : Backup Support, With out @Mo_Tech_YT
 
 ----
 
 ### How To Deploy
 <a href="https://youtu.be/gdz9PAGwEns"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/gdz9PAGwEns?style=social">
-
-----
-
-### How To Use This Bot
-<a href="https://youtu.be/zk5Rs3_Cqhw"><img src="https://img.shields.io/badge/How%20To%20Use-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/zk5Rs3_Cqhw?style=social">
 
 ----
 
