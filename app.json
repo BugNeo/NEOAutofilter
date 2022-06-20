@@ -1,5 +1,5 @@
 {
-    "name": "LuciferMoringstar-Robot",
+    "name": "NE0-Auto-Filter-Robot",
     "description": "When you going to send File on Telegram Channel this bot will save that in database, So you can get file in Bot PM",
     "stack": "container",
     "keywords": [
@@ -10,8 +10,8 @@
       "pyrogram",
       "bot"
     ],
-    "website": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
-    "repository": "https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot",
+    "website": "https://github.com/RealGaurv/NE0-Auto-Filter-Robot",
+    "repository": "https://github.com/RealGaurv/NE0-Auto-Filter-Robot",
     "env": {
         "API_HASH": {
             "description": "Get this value from :- https://youtu.be/5eEsvLAKVc0",
@@ -65,7 +65,7 @@
         },
         "SUPORT_CHAT": {
             "description": "Backup Support, With out @",
-            "value": "Mo_Tech_YT",
+            "value": "RelaxroomChat1",
             "required": true
         },
         "CHANNELS": {
@@ -74,12 +74,12 @@
         },
         "CREATOR_NAME": {
             "description": "Creator Name eg Muhammed Rk",
-            "value": "Muhammed",
+            "value": "Gaurav",
             "required": false
         },
         "CREATOR_USERNAME": {
             "description": "Creator Username Without @",
-            "value": "Pr0fess0r_99",
+            "value": "NE069",
             "required": false
         },
         "FILTER_BUTTONS": {
