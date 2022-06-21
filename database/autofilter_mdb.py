@@ -1,6 +1,6 @@
 # MIT License
 
-# Copyright (c) 2022 NEO
+# Copyright (c) 2022 Muhammed
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -21,8 +21,8 @@
 # SOFTWARE.
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/RealGaurv/NE0-Auto-Filter-Robot
-# License Link : https://github.com/RealGaurv/NE0-Auto-Filter-Robot/blob/NE0-Auto-Filter-Robot/LICENSE
+# Repo Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot
+# License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
 
 import re, base64, os, requests, json, logging
 from struct import pack
@@ -31,7 +31,7 @@ from pymongo.errors import DuplicateKeyError
 from umongo import Instance, Document, fields
 from motor.motor_asyncio import AsyncIOMotorClient
 from marshmallow.exceptions import ValidationError
-from NE0-Auto-Filter-Robot import DATABASE_URI, DATABASE_NAME, temp
+from LuciferMoringstar_Robot import DATABASE_URI, DATABASE_NAME, temp
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
@@ -189,4 +189,3 @@ def unpack_new_file_id(new_file_id):
     )
     file_ref = encode_file_ref(decoded.file_reference)
     return file_id, file_ref
-
