@@ -21,8 +21,8 @@
 # SOFTWARE.
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot
-# License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
+# Repo Link : https://github.com/RealGaurv/NEOAutofilter
+# License Link : https://github.com/RealGaurv/NEOAutofilter/blob/NEOAutofilter/LICENSE
  
 from pyrogram import Client as lucifermoringstar_robot, filters, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
