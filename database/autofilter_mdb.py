@@ -21,7 +21,7 @@
 # SOFTWARE.
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot
+# Repo Link : https://github.com/RealGaurv/NE0-Auto-Filter-Robot
 # License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
 
 import re, base64, os, requests, json, logging
@@ -31,7 +31,7 @@ from pymongo.errors import DuplicateKeyError
 from umongo import Instance, Document, fields
 from motor.motor_asyncio import AsyncIOMotorClient
 from marshmallow.exceptions import ValidationError
-from NE0 Auto Filter Robot import DATABASE_URI, DATABASE_NAME, temp
+from NE0-Auto-Filter-Robot import DATABASE_URI, DATABASE_NAME, temp
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
