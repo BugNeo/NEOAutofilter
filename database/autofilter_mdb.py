@@ -1,6 +1,6 @@
 # MIT License
 
-# Copyright (c) 2022 Muhammed
+# Copyright (c) 2022 NEO
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +22,7 @@
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
 # Repo Link : https://github.com/RealGaurv/NE0-Auto-Filter-Robot
-# License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
+# License Link : https://github.com/RealGaurv/NE0-Auto-Filter-Robot/blob/NE0-Auto-Filter-Robot/LICENSE
 
 import re, base64, os, requests, json, logging
 from struct import pack
