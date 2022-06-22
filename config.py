@@ -27,7 +27,7 @@ DATABASE_URI = os.environ.get("DATABASE_URI", "mongodb+srv://{Username}:{Passs}@
 # Chats & Users
 ADMINS = os.environ.get("ADMINS", "1975235651 1975235651")
 SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "RelaxroomChat1")
-AUTH_CHANNEL = os.environ.get("AUTH_CHANNEL", "-1001685151224")
+AUTH_CHANNEL = os.environ.get("AUTH_CHANNEL", "-1001582165465")
 CHANNELS = [int(ch) if search.search(ch) else ch for ch in os.environ.get("CHANNELS", "-1001784382279").split()]
 LOG_CHANNEL = os.environ.get("LOG_CHANNEL", "-1001590063851")
 GET_FILECHANNEL = os.environ.get("GET_FILECHANNEL", "-1001570208190")
