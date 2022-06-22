@@ -26,7 +26,7 @@
 
 import asyncio
 from pyrogram import Client as lucifermoringstar_robot, filters
-from LuciferMoringstar_Robot.functions import get_settings
+from NEOAutofilter.functions import get_settings
 from pyrogram.errors import ChatWriteForbidden
 
 @lucifermoringstar_robot.on_message(filters.group & filters.new_chat_members)
