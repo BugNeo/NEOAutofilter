@@ -26,7 +26,7 @@
  
 from pyrogram import Client, filters
 from database.autofilter_mdb import save_file
-from LuciferMoringstar_Robot import CHANNELS
+from NEOAutofilter import CHANNELS
 
 media_filter = filters.document | filters.video | filters.audio
 
