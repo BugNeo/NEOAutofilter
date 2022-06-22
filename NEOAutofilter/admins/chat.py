@@ -26,7 +26,7 @@
 
 from pyrogram import Client as lucifermoringstar_robot , filters, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-from LuciferMoringstar_Robot import ADMINS, CREATOR_USERNAME
+from NEOAutofilter import ADMINS, CREATOR_USERNAME
 
 @lucifermoringstar_robot.on_message((filters.group | filters.private) & filters.command('leave') & filters.user(ADMINS))
 async def leave_bot(bot, update):
