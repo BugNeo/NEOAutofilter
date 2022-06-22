@@ -27,7 +27,7 @@
 import logging
 from pyrogram import enums
 from pyrogram.errors import UserNotParticipant
-from LuciferMoringstar_Robot import AUTH_CHANNEL
+from NEOAutofilter import AUTH_CHANNEL
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
