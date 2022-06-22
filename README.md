@@ -7,12 +7,12 @@
 <details><summary>Read MIT License</summary>
 <p>
 <br>
-<a href="https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
+<a href="https://github.com/realgaurv/NEOAutofilter/blob/NEOAutofilter/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
 </a>
 </p>
 </details>
 
-Licensed under [MIT License](https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE)
+Licensed under [MIT License](https://github.com/realgaurv/NEOAutofilter/blob/NEOAutofilter/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ----
@@ -46,6 +46,8 @@ Thanks To [NEO](https://github.com/realgaurv)
  Thanks To [Subinps](https://github.com/subinps/Media-Search-bot) AutoFilter
 
 ----
+### Dev
+<a href="https://t.me/relaxroombkp"> <img src="https://github.com/realgaurv/NEOAutofilter/blob/NEOAutofilter/NEOAutofilter/modules/logo/neo_space_logo_4x.webp"/> </a>
 
 ### Support
 
