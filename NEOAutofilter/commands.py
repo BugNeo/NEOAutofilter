@@ -26,11 +26,11 @@
 
 import random, asyncio
 from pyrogram import Client as lucifermoringstar_robot , filters, enums
-from LuciferMoringstar_Robot import temp, SUPPORT, PICS, ADMINS, CREATOR_USERNAME, CREATOR_NAME, AUTH_CHANNEL, CUSTOM_FILE_CAPTION, SAVE_FILES, START_MESSAGE
-from LuciferMoringstar_Robot.translation import SETTINGS_MESSAGE, ADMIN_CMD_MESSAGE, ABOUT_MESSAGE, USAGE_MESSAGE
-from LuciferMoringstar_Robot.functions import get_settings, save_group_settings
-from LuciferMoringstar_Robot.admins.broadcast import send_broadcast
-from LuciferMoringstar_Robot.functions import send_msg
+from NEOAutofilter import temp, SUPPORT, PICS, ADMINS, CREATOR_USERNAME, CREATOR_NAME, AUTH_CHANNEL, CUSTOM_FILE_CAPTION, SAVE_FILES, START_MESSAGE
+from NEOAutofilter.translation import SETTINGS_MESSAGE, ADMIN_CMD_MESSAGE, ABOUT_MESSAGE, USAGE_MESSAGE
+from NEOAutofilter.functions import get_settings, save_group_settings
+from NEOAutofilter.admins.broadcast import send_broadcast
+from NEOAutofilter.functions import send_msg
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyrogram.errors import UserNotParticipant
 from database.connections_mdb import active_connection
