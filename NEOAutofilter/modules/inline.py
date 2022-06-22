@@ -3,8 +3,8 @@ from pyrogram import Client, emoji, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InlineQueryResultCachedDocument
 
 from database.autofilter_mdb import get_search_results
-from LuciferMoringstar_Robot import CACHE_TIME, AUTH_USERS, AUTH_CHANNEL, CUSTOM_FILE_CAPTION
-from LuciferMoringstar_Robot.functions import get_size, is_subscribed
+from NEOAutofilter import CACHE_TIME, AUTH_USERS, AUTH_CHANNEL, CUSTOM_FILE_CAPTION
+from NEOAutofilter.functions import get_size, is_subscribed
 
 logger = logging.getLogger(__name__)
 cache_time = 0 if AUTH_USERS or AUTH_CHANNEL else CACHE_TIME
