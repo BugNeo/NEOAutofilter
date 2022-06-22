@@ -27,8 +27,8 @@
 import re, random
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
-from LuciferMoringstar_Robot import temp, PICS, REQUEST_MOVIE, SINGLE_BUTTON, MOVIE_TEXT
-from LuciferMoringstar_Robot.functions import get_size, split_list
+from NEOAutofilter import temp, PICS, REQUEST_MOVIE, SINGLE_BUTTON, MOVIE_TEXT
+from NEOAutofilter.functions import get_size, split_list
 from database.autofilter_mdb import get_filter_results
 
 async def pm_filters(client, update):
