@@ -7,7 +7,7 @@
 <details><summary>Read MIT License</summary>
 <p>
 <br>
-<a href="https://github.com/realgaurv/NEOAutofilter/blob/NEOAutofilter/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
+<a href="https://https://github.com/RealGaurv/NEOAutofilter/blob/main/LICENSE"><img src="https://img.shields.io/badge/Click-Here-FF3333.svg?logo=github&logoColor=FF3333"></a>
 </a>
 </p>
 </details>
