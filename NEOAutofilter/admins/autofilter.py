@@ -27,7 +27,7 @@
 import logging, os
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
-from LuciferMoringstar_Robot import CHANNELS, ADMINS
+from NEOAutofilter import CHANNELS, ADMINS
 from database.autofilter_mdb import Media, unpack_new_file_id
 logger = logging.getLogger(__name__)
 
