@@ -25,7 +25,7 @@
 # License Link : https://github.com/RealGaurv/NEOAutofilter/blob/NEOAutofilter/LICENSE
 
 import asyncio 
-from pyrogram import Client as lucifermoringstar_robot, enums
+from pyrogram import Client as NEOAutofilter, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from pyrogram.errors import UserIsBlocked, PeerIdInvalid, UserNotParticipant, MessageNotModified
 from NEOAutofilter import temp, CUSTOM_FILE_CAPTION, AUTH_CHANNEL, SUPPORT, CREATOR_NAME, CREATOR_USERNAME, SAVE_FILES, GET_FILECHANNEL, ADMINS, START_MESSAGE
