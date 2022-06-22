@@ -28,10 +28,10 @@ import asyncio
 from pyrogram import Client as lucifermoringstar_robot, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from pyrogram.errors import UserIsBlocked, PeerIdInvalid, UserNotParticipant, MessageNotModified
-from LuciferMoringstar_Robot import temp, CUSTOM_FILE_CAPTION, AUTH_CHANNEL, SUPPORT, CREATOR_NAME, CREATOR_USERNAME, SAVE_FILES, GET_FILECHANNEL, ADMINS, START_MESSAGE
-from LuciferMoringstar_Robot.functions import get_size, get_settings, save_group_settings, is_subscribed
-from LuciferMoringstar_Robot.modules import autofilter_text, connection_text, spellcheck_text, welcome_text, misc_text, filecaption_text
-from LuciferMoringstar_Robot.translation import HELP_MESSAGE, ABOUT_MESSAGE, STATUS_MESSAGE, GETFILE_TEXT, USAGE_MESSAGE, NOT_SUB
+from NEOAutofilter import temp, CUSTOM_FILE_CAPTION, AUTH_CHANNEL, SUPPORT, CREATOR_NAME, CREATOR_USERNAME, SAVE_FILES, GET_FILECHANNEL, ADMINS, START_MESSAGE
+from NEOAutofilter.functions import get_size, get_settings, save_group_settings, is_subscribed
+from NEOAutofilter.modules import autofilter_text, connection_text, spellcheck_text, welcome_text, misc_text, filecaption_text
+from NEOAutofilter.translation import HELP_MESSAGE, ABOUT_MESSAGE, STATUS_MESSAGE, GETFILE_TEXT, USAGE_MESSAGE, NOT_SUB
 from database.connections_mdb import active_connection, all_connections, delete_connection, if_active, make_active, make_inactive
 from database.autofilter_mdb import Media, get_file_details
 from database.chats_users_mdb import db
