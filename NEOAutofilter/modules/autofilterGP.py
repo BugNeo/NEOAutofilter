@@ -27,8 +27,8 @@
 import re, random, asyncio 
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
-from LuciferMoringstar_Robot import temp, PICS, MOVIE_TEXT as REQUEST_TEXT, FILTER_DEL_SECOND
-from LuciferMoringstar_Robot.functions import get_size, split_list, get_settings
+from NEOAutofilter import temp, PICS, MOVIE_TEXT as REQUEST_TEXT, FILTER_DEL_SECOND
+from NEOAutofilter.functions import get_size, split_list, get_settings
 from database.autofilter_mdb import get_filter_results
 
 async def group_filters(client, update):
