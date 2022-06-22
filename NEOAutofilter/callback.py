@@ -21,8 +21,8 @@
 # SOFTWARE.
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot
-# License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
+# Repo Link : https://github.com/RealGaurv/NEOAutofilter
+# License Link : https://github.com/RealGaurv/NEOAutofilter/blob/NEOAutofilter/LICENSE
 
 import asyncio 
 from pyrogram import Client as lucifermoringstar_robot, enums
@@ -36,7 +36,7 @@ from database.connections_mdb import active_connection, all_connections, delete_
 from database.autofilter_mdb import Media, get_file_details
 from database.chats_users_mdb import db
 
-@lucifermoringstar_robot.on_callback_query()
+@NEOAutofilter.on_callback_query()
 async def cb_handler(bot, update):
 
     try:
