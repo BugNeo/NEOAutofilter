@@ -25,7 +25,7 @@
 # License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
 
 import pymongo
-from LuciferMoringstar_Robot import DATABASE_URI, DATABASE_NAME
+from NEOAutofilter import DATABASE_URI, DATABASE_NAME
 
 import logging
 logger = logging.getLogger(__name__)
