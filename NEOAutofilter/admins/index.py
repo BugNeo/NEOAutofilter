@@ -29,7 +29,7 @@ from pyrogram import Client, filters, enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.errors import FloodWait
 from pyrogram.errors.exceptions.bad_request_400 import ChannelInvalid, ChatAdminRequired, UsernameInvalid, UsernameNotModified
-from LuciferMoringstar_Robot import ADMINS, LOG_CHANNEL, temp
+from NEOAutofilter import ADMINS, LOG_CHANNEL, temp
 from database.autofilter_mdb import save_file
 
 logger = logging.getLogger(__name__)
