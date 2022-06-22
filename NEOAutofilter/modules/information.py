@@ -26,7 +26,7 @@
 
 import os
 from pyrogram import Client as lucifermoringstar_robot, filters, enums
-from LuciferMoringstar_Robot.functions import get_file_id, extract_user
+from NEOAutofilter.functions import get_file_id, extract_user
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 @lucifermoringstar_robot.on_message(filters.command('id'))
