@@ -21,8 +21,8 @@
 # SOFTWARE.
 
 # Telegram Link : https://telegram.dog/Mo_Tech_Group
-# Repo Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot
-# License Link : https://github.com/PR0FESS0R-99/LuciferMoringstar-Robot/blob/LuciferMoringstar-Robot/LICENSE
+# Repo Link : https://github.com/RealGaurv/NEOAutofilter
+# License Link : https://github.com/RealGaurv/NEOAutofilter/blob/NEOAutofilter/LICENSE
 
 import random, asyncio
 from pyrogram import Client as lucifermoringstar_robot , filters, enums
@@ -36,7 +36,7 @@ from pyrogram.errors import UserNotParticipant
 from database.connections_mdb import active_connection
 from database.chats_users_mdb import db
 from database.autofilter_mdb import get_file_details
-from LuciferMoringstar_Robot.functions import get_size
+from NEOAutofilter.functions import get_size
 
 @lucifermoringstar_robot.on_message(filters.command(["start"]) & filters.private, group=1)
 async def start(bot: lucifermoringstar_robot, update):
